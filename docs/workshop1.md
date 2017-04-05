@@ -5,12 +5,6 @@
 3. Workflow
 4. Helpful Hints
 
-## Workflow
-
-
-
-
-
 - hosted
     + bug tracking
     + documentation
