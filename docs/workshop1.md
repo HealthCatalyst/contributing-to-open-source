@@ -11,10 +11,7 @@
 - **version control**
     + [git](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
         * what is it
-            - local and server based
         * what does it enable?
-        * Basics
-            - terminology:
 - **repository**
     + This is the place your code is stored.
 - **branch**
