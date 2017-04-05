@@ -1,5 +1,7 @@
 # Terminology
 
+![terminology](brown_bag_terminology.png)
+
 - **version control**
     + [git](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
         * what is it
