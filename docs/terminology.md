@@ -34,5 +34,3 @@
     + Collaborators like to check each other's work to ensure quality. This is a way for experienced engineers to mentor, and a way to share knowledge.
 - **merge**
     + Once a code review has taken place and it is determined that the work should be integrated into the production codebase, a merge is done.
-- **fork**
-    + Forking is the act of copying the repo to your own account.
