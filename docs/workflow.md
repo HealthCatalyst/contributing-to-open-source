@@ -8,7 +8,7 @@ You'll need some tools, so please follow the instructions in [First Steps Instal
 
 ## Let's do it!
 
-1. Clone the repo
+1. Fork the repo
 2. Pick an issue
 3. Create a branch
 4. Do the work
