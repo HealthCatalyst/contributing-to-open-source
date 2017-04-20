@@ -8,6 +8,12 @@
         * what does it enable?
 - **repository**
     + This is the place your code is stored.
+- **fork** or **forking**
+    + This is the process of creating your own copy of another project.
+    + Forks are a bridge that connects projects together for multiple purposes:
+        * You may want to use a project as a basis for your new project.
+        * You may want to add new features or fix bug on another project without fear of interfering with the original code.
+    + Read this [4 minute article about forking](https://guides.github.com/activities/forking/).
 - **branch**
     + A branch is a smart copy of a codebase that knows about it's history. You typically create a branch of your own to do work on. This is your workspace that is compelete safe to experiment with.
 - **master branch**
