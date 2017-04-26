@@ -6,8 +6,60 @@ theme: readthedocs
 docs_dir: docs
 
 pages:
-    - Workshop 1: index.md
-    - Install Tools: first_steps_install_tools.md
-    - Terminology: terminology.md
-    - Workflow: workflow.md
-    - Helpful Hints: helpful_hints.md
+- Branch: index.md
+- DataMart 1:
+  - 'Table':
+    - 'Entity1': 'foo/foo.md'
+    - 'Entity1': 'foo/foo.md'
+    - 'Entity1': 'foo/foo.md'
+    - 'Entity1': 'foo/foo.md'
+  - 'Table':
+    - 'Entity1': 'foo/foo.md'
+    - 'Entity1': 'foo/foo.md'
+    - 'Entity1': 'foo/foo.md'
+    - 'Entity1': 'foo/foo.md'
+  - 'Table':
+    - 'Entity1': 'foo/foo.md'
+    - 'Entity1': 'foo/foo.md'
+    - 'Entity1': 'foo/foo.md'
+    - 'Entity1': 'foo/foo.md'
+  - 'Table':
+    - 'Entity1': 'foo/foo.md'
+    - 'Entity1': 'foo/foo.md'
+    - 'Entity1': 'foo/foo.md'
+    - 'Entity1': 'foo/foo.md'
+  - 'Table':
+    - 'Entity1': 'foo/foo.md'
+    - 'Entity1': 'foo/foo.md'
+    - 'Entity1': 'foo/foo.md'
+    - 'Entity1': 'foo/foo.md'
+  - 'Table': 'foo/foo.md'
+  - 'Table': 'foo/foo.md'
+  - 'Table': 'foo/foo.md'
+  - 'Table': 'foo/foo.md'
+  - 'Table': 'foo/foo.md'
+  - 'Table': 'foo/foo.md'
+  - 'Table': 'foo/foo.md'
+  - 'Table': 'foo/foo.md'
+- DataMart 2:
+  - 'More Levels': 'foo/foo.md'
+- Install Tools: first_steps_install_tools.md
+- Terminology: terminology.md
+- Workflow: workflow.md
+- Helpful Hints: helpful_hints.md
+- Nav:
+    - 'Nav': 'index.md'
+    - Nav:
+        - 'Nav': 'index.md'
+        - Nav:
+            - 'Nav': 'index.md'
+            - 'Nav': 'index.md'
+            - Nav:
+                - Nav: 'index.md'
+                - Nav: 'index.md'
+                - Nav:
+                    - 'Nav': 'index.md'
+                    - 'Nav': 'index.md'
+                    - Nav:
+                        - 'Nav': 'index.md'
+                        - 'Nav': 'index.md'
